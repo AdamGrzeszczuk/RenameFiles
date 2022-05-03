@@ -1,2 +1,2 @@
-# RenameFiles
-short script for renaming the files
+# RenameFiles script
+short script for renaming the files in a bulk
